@@ -17,19 +17,19 @@ class Car {
     }
 
     //Getters
-    get getMake() {
+    getMake() {
         return this.make;
     }
 
-    get getModel() {
+    getModel() {
         return this.model;
     }
 
-    get getYear() {
+    getYear() {
         return this.year;
     }
 
-    get getColor() {
+    getColor() {
         return this.color;
     }
 }
